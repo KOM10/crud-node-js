@@ -1,0 +1,17 @@
+{
+  "name": "clase-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio4.js",
+  "scripts": {
+    "start": "nodemon ejercicio4.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "morgan": "^1.10.0"
+  }
+}
